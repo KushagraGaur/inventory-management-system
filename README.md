@@ -1,11 +1,9 @@
 Inventory Management System by Kushagra Gaur
 
-```bash
-  npm i
-```
+To run: 
+* npm i
+* npm run dev
 
-```bash
-npm run dev
-```
+Project built in React, Tailwind.
 
 
